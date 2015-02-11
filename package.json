@@ -4,6 +4,7 @@
   "main": "server/server.js",
   "scripts": {
     "pretest": "jshint ."
+    "test": "mocha --reporter spec --recursive"
   },
   "dependencies": {
     "compression": "^1.0.3",
