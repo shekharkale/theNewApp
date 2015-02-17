@@ -9,6 +9,9 @@
     },
     "LastName": {
       "type": "string"
+    },
+    "Address1": {
+      "type": "string"
     }
   },
   "validations": [],

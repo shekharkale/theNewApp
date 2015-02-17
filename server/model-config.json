@@ -27,7 +27,7 @@
     "public": false
   },
   "customer": {
-    "dataSource": null,
+    "dataSource": "db",
     "public": true
   }
 }
