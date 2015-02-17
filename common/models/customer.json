@@ -12,6 +12,10 @@
     },
     "Address1": {
       "type": "string"
+    },
+    "customerID": {
+      "type": "string",
+      "id": true
     }
   },
   "validations": [],
